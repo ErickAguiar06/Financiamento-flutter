@@ -1,5 +1,5 @@
-# app Avaliação IMC 
-Aplicativo de calculo de Financiamento
+# App Calculo de Investimentos
+Aplicativo de calculo de Investimentos
 
 ## Tecnologias
 - Flutter
