@@ -1,5 +1,5 @@
-# App Calculo de Investimentos
-Aplicativo de calculo de Investimentos
+# App Calculo de Financiamento
+Aplicativo de calculo de financiamneto
 
 ## Tecnologias
 - Flutter
