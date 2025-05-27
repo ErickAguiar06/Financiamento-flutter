@@ -26,4 +26,3 @@ flutter run
 [Avaliação IMC](https://github.com/ErickAguiar06/AvaliacaoIMC)  
 [Bitola - Flutter](https://github.com/ErickAguiar06/Bitola-flutter)  
 [Investimentos - Flutter](https://github.com/ErickAguiar06/Investimentos-Flutter)
-
